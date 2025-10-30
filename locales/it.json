@@ -1,0 +1,40 @@
+{
+  "auth": {
+    "title": "steamplus",
+    "getApiKey": "Ottieni chiave API da:",
+    
+    "placeholder": "Inserisci la tua chiave API steamplus...",
+    "instructions": "Incolla qui sotto la chiave API steamplus. Puoi trovarla su https://www.piracybound.com/manilua.",
+    "example": "Esempio: manilua_XXXXXXXXXXXXXXXX.",
+    "required": "Inserisci la tua chiave API.",
+    "save": "Salva chiave API",
+    "saving": "Salvataggio in corso...",
+    "invalid": "Chiave non valida",
+    "error": "Errore"
+  },
+  "btn": {
+    "add": "Aggiungi con steamplus",
+    "remove": "Rimuovi con steamplus",
+    "loading": "Caricamento...",
+    "removing": "Rimozione in corso...",
+    "cancel": "Annulla"
+  },
+  "status": {
+    "downloading": "Scaricamento e installazione del gioco in corso...",
+    "checking": "Verifica disponibilità…",
+    "checkingApi": "Verifica {api}…",
+    "queued": "Inizializzazione download…",
+    "downloadingProgress": "Scaricamento da {endpoint}… ({downloaded}MB / {total}MB)",
+    "processing": "Elaborazione pacchetto ZIP…",
+    "extracting": "Estrazione dei file di gioco…",
+    "extractingCount": "Estrazione dei file di gioco… ({count} file elaborati)",
+    "installing": "Installazione su Steam…",
+    "failed": "Scaricamento non riuscito",
+    "gameAdded": "Gioco aggiunto con successo!",
+    "authFailed": "Autenticazione chiave API fallita"
+  },
+  "generic": {
+    "error": "Errore",
+    "close": "Chiudi"
+  }
+}

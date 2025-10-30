@@ -1,0 +1,9 @@
+{
+  "$schema": "https://raw.githubusercontent.com/SteamClientHomebrew/Millennium/main/src/sys/plugin-schema.json",
+  "name": "steamplus",
+  "common_name": "steamplus",
+  "description": "Buy all games free on Steam",
+  "version": "0.0.1",
+  "author": "steamplus",
+  "license": "MIT"
+}
