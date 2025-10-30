@@ -20,7 +20,7 @@ Steam instalado
 
 Millennium Steam Patcher
 
-## 🛠 Instalação Completa (Millennium + steamplus)
+## 🛠 Instalação Completa (Millennium + SteamPlus)
 
 ### Método 1: Instalação (Recomendado)
 
@@ -97,6 +97,7 @@ Sugerir novas funcionalidades
 
 🏆 Créditos
 Desenvolvido por debounced / piracybound / blumenal86
+
 Interface Millennium integrada
 Sistema multi-repositório aprimorado
 
