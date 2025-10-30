@@ -6,7 +6,7 @@ import zipfile
 import io
 from typing import Dict, Any, List, Optional
 import PluginUtils
-from steam_utils import get_stplug_in_path
+from steam_utils import get_stplug_in_path 
 
 logger = PluginUtils.Logger()
 
