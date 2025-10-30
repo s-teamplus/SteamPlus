@@ -98,7 +98,7 @@ Sugerir novas funcionalidades
 🏆 Créditos
 Desenvolvido por debounced / piracybound / blumenal86
 
-Interface Millennium integrada
+Interface Millennium integrada 
 Sistema multi-repositório aprimorado
 
 ⭐ Não esqueça de dar uma estrela no repositório se o plugin foi útil para você!
